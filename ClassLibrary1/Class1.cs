@@ -24,5 +24,18 @@
         {
             Console.BackgroundColor = ConsoleColor.Black;
         }
+        public static void hum2()
+        {
+            Console.WriteLine("-----------------------");
+            Console.WriteLine("---------@*=*@---------");
+            Console.WriteLine("----------=|=----------");
+            Console.WriteLine("-----==============----");
+            Console.WriteLine("-----==---***----==----");
+            Console.WriteLine("-----==---***----==----");
+            Console.WriteLine("----------***----------");
+            Console.WriteLine("--------**---**--------");
+            Console.WriteLine("--------**---**--------");
+            Console.WriteLine("--------**---**--------");
+        }
     }
 }
