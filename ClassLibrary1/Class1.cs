@@ -1,4 +1,4 @@
-﻿namespace draw
+namespace draw
 {
     public class figure
     {
