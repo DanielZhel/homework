@@ -1,8 +1,8 @@
-﻿namespace draw
+namespace draw
 {
     public class figure
     {
-        public static void hum()
+        public static void Hum()
         {
             Console.WriteLine("---==-------------==---");
             Console.WriteLine("---==----@===@----==---");
@@ -24,7 +24,7 @@
         {
             Console.BackgroundColor = ConsoleColor.Black;
         }
-        public static void hum2()
+        public static void Hum2()
         {
             Console.WriteLine("-----------------------");
             Console.WriteLine("---------@*=*@---------");
@@ -33,7 +33,6 @@
             Console.WriteLine("-----==---***----==----");
             Console.WriteLine("-----==---***----==----");
             Console.WriteLine("----------***----------");
-            Console.WriteLine("--------**---**--------");
             Console.WriteLine("--------**---**--------");
             Console.WriteLine("--------**---**--------");
         }
